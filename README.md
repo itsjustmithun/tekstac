@@ -1,14 +1,19 @@
-# Auto-Generated Documentation
+## Accenture Tekstac
 
-## Code Analysis
-Functions: 
+A dump of solutions for Accenture Tekstac problems covering various FSE modules, mock tests, and hands-on exercises.
 
-## Pull Request Summary
-PR #1: Bump junit from 3.8.1 to 4.13.1 in /Maven/MavenAppCommand/MavenAppCommand
+> **Disclaimer:** Use this to reference, learn, or debug when you get stuck. Try solving the problems on your own first!
 
-Author: dependabot[bot]
-Status: closed
-Created: 2020-10-13 23:54:11+00:00
+### 📁 What's Inside
 
-Changes:
-- Maven/MavenAppCommand/MavenAppCommand/pom.xml: modified (2 lines)
+Solutions organized by tech stack and module:
+
+- **Languages:** Java, Python, C#
+- **Web & Frameworks:** HTML/CSS/JS, JSP & Servlets, Spring Core, Spring MVC, Hibernate
+- **Build Tools & Testing:** Maven, Selenium
+- **Data Formats:** XML & JSON
+- **Extras:** Mock test solutions and prep materials
+
+### 🤝 Contributing
+
+Found a better approach or spotted a bug? Feel free to open a PR or drop an issue.
