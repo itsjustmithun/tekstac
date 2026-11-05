@@ -1,6 +1,6 @@
-## Accenture Tekstac
+## Tekstac
 
-A dump of solutions for Accenture Tekstac problems covering various FSE modules, mock tests, and hands-on exercises.
+A dump of solutions for Tekstac problems covering various modules, mock tests, and hands-on exercises.
 
 > **Disclaimer:** Use this to reference, learn, or debug when you get stuck. Try solving the problems on your own first!
 
